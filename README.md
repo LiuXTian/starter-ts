@@ -11,17 +11,9 @@ _description_
 > **Note**:
 > Replace `pkg-placeholder`, `_description_` and `antfu` globally to use this template.
 
-## Sponsors
-
-<p align="center">
-  <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
-    <img src='https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg'/>
-  </a>
-</p>
-
 ## License
 
-[MIT](./LICENSE) License © 2024-PRESENT [Anthony Fu](https://github.com/antfu)
+[MIT](./LICENSE) License © 2024-PRESENT [Liuxintian](https://github.com/antfu)
 
 <!-- Badges -->
 
